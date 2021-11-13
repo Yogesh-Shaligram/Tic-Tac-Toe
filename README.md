@@ -1,12 +1,25 @@
 # TicTacToe
 
-<img src="https://user-images.githubusercontent.com/43718012/141605699-78cc4b64-45b1-4de5-b5f8-f5b0030750b5.jpg" width="300">     
+TicTacToe is a game for two players, X and O, who take turns marking the spaces in a 3×3 grid.
+This is an android application which is build using kotlin. The player who succeeds in placing three of their marks in a diagonal, horizontal, or vertical row is the winner.
 
-<img src="https://user-images.githubusercontent.com/43718012/141605711-501cd475-d0b5-41c7-8532-942f339d7e79.jpg" width="300">
+This is an android application which is built using kotlin.
 
-<img src="https://user-images.githubusercontent.com/43718012/141605713-7481f119-e667-48ba-821a-ca7384185fea.jpg" width="300">     
+## Main Screen
+![](main_screen.png)
 
-<img src="https://user-images.githubusercontent.com/43718012/141605714-8e58bbb9-d13f-47d4-a91f-17425fcda1c7.jpg" width="300">
+## Game Screen
+![](game_screen.png)
 
-<img src="https://user-images.githubusercontent.com/43718012/141605717-06405da5-d977-4a07-bc18-e3b254c244f0.jpg" width="300">
+## Winning Screen
+![](win.png)
+
+# Features
+- [x] Multiplayer Game
+- [x] Animations shown on winning
+- [x] Leaderboard to view top scores
+- [x] Option to add player names
+- [x] Option to restart game on winning/draw
+- [x] Option to invite others by sending message
+- [x] Single player game 
 
